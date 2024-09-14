@@ -1,4 +1,4 @@
-# A test_flet Flet app
+# DocToTalk Flet app
 
 An example of a Flet app Documento Talk.
 
