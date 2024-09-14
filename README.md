@@ -17,3 +17,4 @@ An example of a Flet app  using llama_ccp library and small models from huggingf
 5. Run app using "flet run main.py"
 
 
+<img width="1659" alt="Screenshot 2024-09-14 at 1 29 28 PM" src="https://github.com/user-attachments/assets/6cc00347-7b8d-45d6-9707-19ed0b73d963">
