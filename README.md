@@ -1,6 +1,6 @@
 # DocToTalk Flet app
 
-An example of a Flet app Documento Talk.
+An example of a Flet app  using llama_ccp library and small models from huggingface. This  app allows the user to upload the documents in pdf format and talk to this doc using Artificial Intelligence.
 
 # To run the app:
 
