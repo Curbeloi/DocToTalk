@@ -1,7 +1,7 @@
-flet==0.24.*
-rich==13.8.0
-tiktoken==0.7.0
-langchain_community==0.2.16
-llama-cpp-python==0.2.9
-PyMuPDF==1.24.10
-sentence-transformers==3.1.0
+flet==0.28.*
+rich==14.2.0
+tiktoken==0.12.0
+langchain_community==0.4.1
+llama-cpp-python==0.3.16
+PyMuPDF==1.26.6
+sentence-transformers==5.1.2
